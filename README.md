@@ -1,6 +1,6 @@
 # AI_Robot_Arm
 
-N11 ավագ դպրոց  
+N11 Վանաձորի ավագ դպրոց  
 
 ## Теам contributions
 **Milena Petrosyan**
