@@ -62,32 +62,32 @@ Servo Motors → Robotic Hand Movement
 - Data cleaning to remove blurry and invalid samples
 
 **Technologies Used**
-Python
-c++
-OpenCV
-MediaPipe
-Scikit-learn / TensorFlow
-NumPy
-PySerial
-Arduino IDE
+- Python
+- c++
+- OpenCV
+- MediaPipe
+- Scikit-learn / TensorFlow
+- NumPy
+- PySerial
+- Arduino IDE
 
 **Hardware Components**
-Arduino board
-Servo motors
-3D-printed / assembled robotic hand
-External power supply
-Jumper wires
+- Arduino board
+- Servo motors
+- 3D-printed / assembled robotic hand
+- External power supply
+- Jumper wires
 
 **Model Performance**
-Accuracy: 97%
-Latency: 2 ms
-Works best in good lighting conditions
-Full hand visibility required
+- Accuracy: 97%
+- Latency: 2 ms
+- Works best in good lighting conditions
+- Full hand visibility required
 
 **Future Improvements**
-Larger and more diverse dataset
-Improved CNN architecture
-Reduced latency
-Mobile app integration
-Multi-gesture continuous tracking
-Enhanced mechanical stability
+- Larger and more diverse dataset
+- Improved CNN architecture
+- Reduced latency
+- Mobile app integration
+- Multi-gesture continuous tracking
+- Enhanced mechanical stability
