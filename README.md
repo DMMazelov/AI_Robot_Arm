@@ -11,14 +11,6 @@ N11 Վանաձորի ավագ դպրոց
 - System integration
 - designed the presentation
 
-**David Jaghatspanyan**
-- Testing and evalution
-- Managed English translation
-- Prepared the project documentation
-  
-**Erik Mkrtchyan**
-- Coordinated project organization
-- handled non-technical tasks
 
 An AI-powered robotic arm that recognizes hand gestures in real time and replicates the movement using servo motors. The system combines computer vision, machine learning, and hardware engineering to create a low-latency human-robot interaction interface
 
