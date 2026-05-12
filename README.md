@@ -1,5 +1,8 @@
 # AI_Robot_Arm
 
+##Demo video
+[Watch the video] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/video.MOV)
+
 N11 Վանաձորի ավագ դպրոց  
 
 ## Теам contributions
