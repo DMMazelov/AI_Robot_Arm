@@ -2,7 +2,7 @@
 
 ## Փաստաթուղթ
 
-[Download Փաստաթուղթ] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/AI%20robot%20arm.docx)
+[Download Փաստաթուղթ] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/AI%20robot%20arm_2.pdf)
 
 ## Demo video
 
