@@ -1,5 +1,9 @@
 # AI_Robot_Arm
 
+## Փաստաթուղթ
+
+[Download Փաստաթուղթ] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/AI%20robot%20arm.docx)
+
 ## Demo video
 
 [Watch the video] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/video.MOV)
