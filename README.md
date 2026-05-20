@@ -45,6 +45,7 @@ For now, though, the project already demonstrates something worth paying attenti
 
 
 ## Փաստաթուղթ
+[Document in English] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/project_4.pdf)
 
 [Download Փաստաթուղթ] (https://github.com/DMMazelov/AI_Robot_Arm/blob/main/AI%20robot%20arm_2.pdf)
 
