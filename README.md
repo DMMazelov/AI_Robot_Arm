@@ -1,7 +1,4 @@
 # AI_Robot_Arm
-
-Milena:
-AI Robot Hand 
 Meet the AI-powered robotic hand that watches your gestures and copies them in real time no controller required
 What if a robot could simply watch your hand and do exactly what you do? No joystick, no buttons, no complicated input device  just your fingers moving naturally in front of a webcam. That's the idea behind this project: an AI-powered robotic hand that recognises human hand gestures through a camera and reproduces them physically using servo motors, machine learning, and an Arduino microcontroller.
 It sounds like science fiction, but the whole system runs on a standard laptop. And that, it turns out, is kind of the point.
